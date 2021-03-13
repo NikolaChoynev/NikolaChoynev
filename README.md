@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, TypeScript, Angular, React, Verilog/System Verilog
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nikolacojnve@gmail.com
+- 📫 How to reach me nikolacojnev@gmail.com
 
 <!---
 NikolaChoynev/NikolaChoynev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
