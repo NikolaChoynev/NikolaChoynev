@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikolaChoynev
-- 👀 I’m interested in JavaScript, TypeScript, Angular, React, Verilog/System Verilog
+- 👀 I’m interested in JavaScript, TypeScript, Angular, React, Node/Express.js, MongoDB, Verilog/System Verilog
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nikolacojnev@gmail.com
